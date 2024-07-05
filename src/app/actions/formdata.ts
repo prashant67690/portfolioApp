@@ -7,7 +7,8 @@ export const sendData = async (from: string, name: string, text: string) => {
     service: "Gmail",
     auth: {
       user: "prashant67670@gmail.com",
-      pass: "ehkirvfirhixguwn",
+      // pass: "ehkirvfirhixguwn",
+      pass: process.env.PASS,
     },
   });
 

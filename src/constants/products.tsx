@@ -4,7 +4,7 @@ export const products = [
     title: "ProjectQ",
     description: "A Platform For Colleges To Do Major Project Coordination",
     thumbnail: "/images/mp-16.png",
-    images: ["/images/mp-16.png", "/images/sidefolio-algochurn-2.png"],
+    images: ["/images/mp-16.png", "/images/mp-17.png"],
     stack: [
       "Reactjs",
       "Tailwindcss",
